@@ -48,9 +48,3 @@
 </p>
 
 ---
-
-### 🐍 Contribution Snake:
-<!-- To make this work, set up the GitHub Actions snake animation as described at: https://github.com/Platane/snk -->
-<p align="center">
-  <img src="https://github.com/SarvarDevYT/SarvarDevYT/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
