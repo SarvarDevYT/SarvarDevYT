@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/> I'm Sarvarbek Iskandarov</h1>
-<h3 align="center">A passionate frontend learner and Minecraft plugin developer from Uzbekistan</h3>
+<h3 align="center">A passionate frontend developer and Minecraft plugin developer from Uzbekistan</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Frontend+Learner;Minecraft+Plugin+Developer;Founder+of+StoryMine;Let's+build+together!" alt="Typing SVG" />
