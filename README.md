@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer and Minecraft plugin developer from Uzbekistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Frontend+Learner;Minecraft+Plugin+Developer;Founder+of+StoryMine;Let's+build+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Frontend+Developer;Minecraft+Plugin+Developer;Founder+of+NeoTerra;Let's+build+together!" alt="Typing SVG" />
 </p>
 
 ---
