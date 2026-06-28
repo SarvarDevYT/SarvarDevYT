@@ -94,4 +94,7 @@
   <a href="https://site.neoterra.uz" target="_blank">
     <img src="https://img.shields.io/badge/NeoTerra-00C853?style=for-the-badge&logo=minecraft&logoColor=white" alt="NeoTerra" />
   </a>
+  <a href="https://site.neoterra.uz" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
