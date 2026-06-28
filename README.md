@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=500&lines=Frontend+Developer;Minecraft+Plugin+Developer;Founder+of+NeoTerra+Server;Let's+build+together!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SarvarDevYT&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" alt="github trophies" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me:
