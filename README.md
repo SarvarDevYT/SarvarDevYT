@@ -11,7 +11,7 @@
 - 🔭 **Currently working on**: NeoTerra Minecraft Server & custom plugin development
 - 🌱 **Currently learning**: HTML, CSS, JavaScript, React, Next.js
 - 🎯 **Goal**: To become a highly skilled professional developer
-- 🛠️ **Founder of**: [NeoTerra Minecraft Server](https://site.neoterra.uz) & StoryMine Developer Studio
+- 🛠️ **Founder of**: [NeoTerra Minecraft Server](https://site.neoterra.uz) & Cloudy Studio Developer
 - 🗨️ **Ask me about**: Minecraft plugins, BungeeCord/Velocity, HTML, CSS, Next.js
 - ✨ **Fun fact**: I love combining gaming concepts with modern web technologies!
 
@@ -79,16 +79,16 @@
   <a href="https://t.me/SarvarGamer_YT" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://instagram.com/SarvarGamer_YT" target="_blank">
+  <a href="https://www.instagram.com/iskandarrovs/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://youtube.com/@SarvarGamer_YT" target="_blank">
+  <a href="https://www.youtube.com/@SarvarGamer2736" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://site.neoterra.uz" target="_blank">
     <img src="https://img.shields.io/badge/NeoTerra-00C853?style=for-the-badge&logo=minecraft&logoColor=white" alt="NeoTerra" />
   </a>
-  <a href="https://site.neoterra.uz" target="_blank">
+  <a href="https://sarvarcodes.uz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio" />
   </a>
 </p>
