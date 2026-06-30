@@ -51,7 +51,6 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SarvarDevYT&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="SarvarDevYT stats"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvarDevYT&layout=compact&langs_count=8&theme=onedark" alt="top langs"/>
 </p>
 
